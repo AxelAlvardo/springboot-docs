@@ -2,6 +2,8 @@
 
 Sitio de documentación desarrollado con **MkDocs** y el tema **Material for MkDocs** como parte de una actividad práctica orientada al aprendizaje de herramientas de documentación y despliegue con GitHub Pages.
 
+Página en GitHub Pages : https://axelalvardo.github.io/springboot-docs/
+
 ## Descripción
 
 Este proyecto presenta una guía introductoria sobre **Spring Boot**, abordando conceptos básicos, instalación y ejemplos prácticos para estudiantes y desarrolladores que desean iniciarse en este framework de Java.
@@ -67,7 +69,7 @@ springboot-docs/
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/AxelAlvarado/springboot-docs.git
+git clone https://github.com/axelalvardo/springboot-docs.git
 cd springboot-docs
 ```
 
