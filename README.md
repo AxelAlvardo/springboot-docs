@@ -89,20 +89,6 @@ mkdocs serve
 http://127.0.0.1:8000
 ```
 
-## Despliegue
-
-Para publicar el sitio en GitHub Pages:
-
-```bash
-mkdocs gh-deploy
-```
-
-Una vez completado el despliegue, la documentación estará disponible en:
-
-```text
-https://TU_USUARIO.github.io/springboot-docs/
-```
-
 ## Autor
 
 AXEL JAHIR ALVARADO ALEGRÍA
