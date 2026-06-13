@@ -1,0 +1,17 @@
+site_name: Guía de Introducción a Spring Boot
+
+theme:
+  name: material
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Inicio: index.md
+  - Instalación: instalaciones.md
+  - Conceptos Básicos: conceptos.md
+  - Ejemplos: ejemplos.md
